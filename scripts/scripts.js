@@ -1,6 +1,6 @@
 import { loadArea, setConfig } from './ak.js';
 
-const hostnames = ['authorkit.dev'];
+const hostnames = ['main--author-kit--frederikanrys.aem.page', 'main--author-kit--frederikanrys.aem.live'];
 
 const locales = {
   '': { lang: 'en' },
